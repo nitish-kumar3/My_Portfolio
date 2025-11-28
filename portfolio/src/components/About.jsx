@@ -13,7 +13,6 @@ import Express from '../assets/Express.png'
 import NextJs from '../assets/NextJs.png'
 // import './navbarrs.css'
 
-
 const About = () => {
     return (
         <div className='relative' id='about'>
