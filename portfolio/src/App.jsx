@@ -11,6 +11,7 @@ import Footer from './components/Footer'
 import Marquee from 'react-fast-marquee'
 // import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 
+
 const App = () => {
   return (
     <>
